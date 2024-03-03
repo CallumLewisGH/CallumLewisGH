@@ -1,7 +1,7 @@
 # Hello :)
 
 ### About Me:
-- Im Callum an A-level computer science student in the UK.
+- Im Callum an A-level computer science student in the UK. I'm mostly working on projects in our group [Precision-Coding](https://github.com/Precision-Coding)!
 
 ### I’m Currently Working On:
 - [Dune Recreation](https://github.com/Quantum-Dev-Group/Dune-Recreation)
@@ -13,9 +13,8 @@
   
 ## Contact Me
 ### - Email: callumlewis852@gmail.com
-### - Discord: callumlewisdc
 ### - LinkedIn: https://www.linkedin.com/in/callum-lewis-9158ba263/
-
+### - Discord: callumlewisdc
 <!--
 **CallumLewisGH/CallumLewisGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
