@@ -4,7 +4,8 @@
 - Im Callum an A-level computer science student in the UK. I'm mostly working on projects in our group [Precision-Coding](https://github.com/Precision-Coding)!
 
 ### I’m Currently Working On:
-- [Dune Recreation](https://github.com/Quantum-Dev-Group/Dune-Recreation)
+- [Dune Recreation](https://github.com/Precision-Coding/Dune-Recreation)
+- [Planet Simulator](https://github.com/Precision-Coding/Planet-Simulator)
 
 ### I'm Currently Learning:
 - Parts of html with my horrendous personal website.
